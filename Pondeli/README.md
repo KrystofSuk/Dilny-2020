@@ -1,4 +1,7 @@
 # Pondeli (Unity, Playground)
+
+![alt text](src/bugcat_4.gif "Structure")
+
 ## Unity
 
 ### Window
@@ -43,6 +46,8 @@ Pohled kamery, zde je presne reprezentovano, co hrac uvidi skrz kameru.
 Obchod s assety a pluginy do unity, obsahuje spoustu free veci, ktere si muzete stahnout. Cokoli stazene pres store, se umisti do Project window a na disk.
 
 ---
+
+![alt text](src/bugcat_2.gif "Structure")
 
 ## Jak to funguje?
 
@@ -103,6 +108,8 @@ Jednotive sceny se daji vytvaret pomoci File/New Scene. Je dulezite ji ukladat p
 Specialni druh objektu, ktery chceme vytvaret / pouzivat opakovane. Napriklad strela z pisotle. Vytvorime ho pretazenim **GameObjectu** z hierarchie do **Projectu** tim se nam vytvori Prefab a nazev objektu zmodra. Lze ho pote z Projectu pretahnout do jakekoli sceny nebo napr spawneru z Playgroundu.
 
 ---
+
+![alt text](src/bugcat_1.gif "Structure")
 
 ## Playground
 
