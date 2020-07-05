@@ -1,5 +1,4 @@
 # Pondeli (Unity, Playground)
-75 15 33 C0 EB 13 90
 ## Unity
 
 ### Window
