@@ -11,16 +11,19 @@ Jednotliva okna, ktera umoznuji modifikovani a vytvareni hry.
 #### Project
 
 Zdrojove soubory projektu, napr: modely, textury, audio, sceny atp... Soubory zde jdou nalezt primo na disku pocitace ve slozce NazevProjektu/Assets.
+
 ![alt text](src/project.png "Structure")
 
 #### Hierarchy
 
 Jednotlive GameObjecty ve scene. Pokud chceme pridat / odebrat GameObject tak to musim provest zde.
+
 ![alt text](src/hierarchy.png "Structure")
 
 #### Inspector
 
 Zobrazi detailni informace, pro upravu vybraneho souboru / GameObjectu.
+
 ![alt text](src/inspector.png "Structure")
 
 ##### GameObject
