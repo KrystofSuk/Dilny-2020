@@ -1,0 +1,6 @@
+211,80,129 SPWN asi
+
+
+-275, 65, -191 - nether pevnost
+
+424, 83, -120 - base
