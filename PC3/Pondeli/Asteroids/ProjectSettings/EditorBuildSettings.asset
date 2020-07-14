@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel0.unity
+    guid: 029e597475c3944a5b42678232c2822b
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel1.unity
+    guid: f9b71d909be1c4e9dbb8b3599d76b33c
+  - enabled: 0
+    path: Assets/Examples/Adventure/Adventure.unity
+    guid: f723b1979947445779b87ef7a1089a32
+  - enabled: 0
+    path: Assets/Examples/Football/Football.unity
+    guid: 8b655b0fb8d8c4758a154fd99dc41447
+  - enabled: 0
+    path: Assets/Examples/Lander/Lander.unity
+    guid: 3925160d1efe749d5a026cbf18c60f83
+  - enabled: 0
+    path: Assets/Examples/Roguelike/Roguelike.unity
+    guid: ad15a26015e49439387b05c22fe7a962
+  - enabled: 1
+    path: Assets/Scenes/Asteroids.unity
+    guid: b3dd324fa0d70414db1bed4d995c0d20
+  - enabled: 1
+    path: Assets/Scenes/Asteroids for 2.unity
+    guid: b8275eb807b2cd948901aa3c53281672
+  - enabled: 1
+    path: Assets/Scenes/NXTLVL.unity
+    guid: 17be3032c6e666e4a94f86ebc074588b
+  m_configObjects: {}
